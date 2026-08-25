@@ -31,4 +31,4 @@ No extra dependencies — download and run.
 ## Features
 - ✅ **Remote Development:** SSH, container, and WSL support for coding on remote machines.
 - ✅ **Code Navigation:** Go-to-definition, find references, and symbol search across the project.
-- ✅ **Snippet Manager:** Custom code snippet library with variable placeholders and tab stops.             
+- ✅ **Snippet Manager:** Custom code snippet library with variable placeholders and tab stops.              
